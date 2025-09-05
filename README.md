@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ricms93
-- I'm a Senior Engineer at [Cerebral](https://cerebral.com)
+- I'm a Senior Engineer at [Weedmaps](https://weedmaps.com)
 - 👀 I’m interested in AI, Cybersecurity, Typescript, Python
 - Also I'm a big fan of microservices
 - 📫 How to reach me: ricardo.morillosegovia@gmail.com
